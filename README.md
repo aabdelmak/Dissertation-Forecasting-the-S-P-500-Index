@@ -15,8 +15,7 @@ Industrial and academic finance, alike, have become inextricably linked to the a
 
 Keywords:Support Vector Machines, LSTM, Random Forest, Stock Price Prediction, S&P 500 Index.
 
-<object data="https://github.com/aabdelmak/Dissertation/blob/master/Stock%20Daily%20Returns.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/aabdelmak/Dissertation/blob/master/Stock%20Daily%20Returns.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/aabdelmak/Dissertation/blob/master/Stock%20Daily%20Returns.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+![Stock Daily Returns](https://github.com/aabdelmak/Dissertation/blob/master/Stock%20Daily%20Returns.pdf)
+
+![Scatter Plot](https://github.com/aabdelmak/Dissertation/blob/master/scatter.png)
