@@ -4,7 +4,7 @@ This repository contains the pdf of my Dissertation, along with the Google Colab
 
 # Dissertation Description:
 
-This project was undertaken as my postgraduate dissertation. Under the supervision of Dr. John O’Hara, Director of the Center for Computational Finance, \textbf{I used Python to implement and compare the performances of four machine learning models on forecasting the daily returns of the S&P 500 index}.
+This project was undertaken as my postgraduate dissertation. Under the supervision of Dr. John O’Hara, Director of the Center for Computational Finance, **I used Python to implement and compare the performances of four machine learning models on forecasting the daily returns of the S&P 500 index**.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
