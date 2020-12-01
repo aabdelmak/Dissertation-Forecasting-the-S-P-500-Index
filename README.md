@@ -15,7 +15,4 @@ Industrial and academic finance, alike, have become inextricably linked to the a
 
 Keywords:Support Vector Machines, LSTM, Random Forest, Stock Price Prediction, S&P 500 Index.
 
-
-![Stock Daily Returns](https://github.com/aabdelmak/Dissertation/blob/master/Stock%20Daily%20Returns.pdf)
-
 ![Scatter Plot](https://github.com/aabdelmak/Dissertation/blob/master/scatter.png)
